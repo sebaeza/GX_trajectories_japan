@@ -1,2 +1,3 @@
 # GX_trajectories_japan
-GX of green technologies analysis
+
+Analysis of core and periphery dynamics of Japanese GX technologies
