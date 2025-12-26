@@ -1,0 +1,129 @@
+﻿id,Title,IPC,NBER,NBER_name
+6,"Separating, mixing",B01,1,Chemical
+6,"Separating, mixing",B02,1,Chemical
+6,"Separating, mixing",B03,1,Chemical
+6,"Separating, mixing",B04,1,Chemical
+6,"Separating, mixing",B05,1,Chemical
+6,"Separating, mixing",B06,1,Chemical
+6,"Separating, mixing",B07,1,Chemical
+6,"Separating, mixing",B08,1,Chemical
+6,"Separating, mixing",B09,1,Chemical
+12,"Non-organic chemistry, fertilizer",C01,1,Chemical
+12,"Non-organic chemistry, fertilizer",C02,1,Chemical
+12,"Non-organic chemistry, fertilizer",C03,1,Chemical
+12,"Non-organic chemistry, fertilizer",C04,1,Chemical
+12,"Non-organic chemistry, fertilizer",C05,1,Chemical
+13,"Organic chemistry, pesticides",C07,1,Chemical
+13,"Organic chemistry, pesticides",A01N,1,Chemical
+14,Organic molecule compounds,C08,1,Chemical
+15,"Dyes, petroleum",C09,1,Chemical
+15,"Dyes, petroleum",C10,1,Chemical
+15,"Dyes, petroleum",C11,1,Chemical
+28,"Clock, controlling, computer",G04,2,Computer and Communications
+28,"Clock, controlling, computer",G05,2,Computer and Communications
+28,"Clock, controlling, computer",G06,2,Computer and Communications
+28,"Clock, controlling, computer",G07,2,Computer and Communications
+28,"Clock, controlling, computer",G08,2,Computer and Communications
+29,"Display, information storage, instruments",G09,2,Computer and Communications
+29,"Display, information storage, instruments",G10,2,Computer and Communications
+29,"Display, information storage, instruments",G11,2,Computer and Communications
+29,"Display, information storage, instruments",G12,2,Computer and Communications
+32,"Electronics circuit, communication tech.",H03,2,Computer and Communications
+32,"Electronics circuit, communication tech.",H04,2,Computer and Communications
+4,Health and amusement,A61,3,Pharmaceuticals and Medical
+4,Health and amusement,A62,3,Pharmaceuticals and Medical
+4,Health and amusement,A63,3,Pharmaceuticals and Medical
+5,Drugs,A61K,3,Pharmaceuticals and Medical
+16,"Biotechnology, beer, fermentation",C12,3,Pharmaceuticals and Medical
+16,"Biotechnology, beer, fermentation",C13,3,Pharmaceuticals and Medical
+16,"Biotechnology, beer, fermentation",C14,3,Pharmaceuticals and Medical
+17,Genetic engineering,C12N,3,Pharmaceuticals and Medical
+27,"Measurement, optics, photography",G01,4,Electrical and Electronics
+27,"Measurement, optics, photography",G02,4,Electrical and Electronics
+27,"Measurement, optics, photography",G03,4,Electrical and Electronics
+30,Nuclear physics,G21,4,Electrical and Electronics
+31,"Electronics components, semi conductor",H01,4,Electrical and Electronics
+31,"Electronics components, semi conductor",H02,4,Electrical and Electronics
+31,"Electronics components, semi conductor",H05,4,Electrical and Electronics
+7,"Machine tools, metal working",B21,5,Mechanical
+7,"Machine tools, metal working",B22,5,Mechanical
+7,"Machine tools, metal working",B23,5,Mechanical
+8,"Casting, grinding, layered product",B24,5,Mechanical
+8,"Casting, grinding, layered product",B25,5,Mechanical
+8,"Casting, grinding, layered product",B26,5,Mechanical
+8,"Casting, grinding, layered product",B27,5,Mechanical
+8,"Casting, grinding, layered product",B28,5,Mechanical
+8,"Casting, grinding, layered product",B29,5,Mechanical
+8,"Casting, grinding, layered product",B30,5,Mechanical
+8,"Casting, grinding, layered product",B32,5,Mechanical
+10,Transporting,B60,5,Mechanical
+10,Transporting,B61,5,Mechanical
+10,Transporting,B62,5,Mechanical
+10,Transporting,B63,5,Mechanical
+10,Transporting,B64,5,Mechanical
+11,"Packing, lifting",B65,5,Mechanical
+11,"Packing, lifting",B66,5,Mechanical
+11,"Packing, lifting",B67,5,Mechanical
+11,"Packing, lifting",B68,5,Mechanical
+18,"Metallurgy, coating metals",C21,5,Mechanical
+18,"Metallurgy, coating metals",C22,5,Mechanical
+18,"Metallurgy, coating metals",C23,5,Mechanical
+18,"Metallurgy, coating metals",C24,5,Mechanical
+18,"Metallurgy, coating metals",C25,5,Mechanical
+18,"Metallurgy, coating metals",C26,5,Mechanical
+18,"Metallurgy, coating metals",C27,5,Mechanical
+18,"Metallurgy, coating metals",C28,5,Mechanical
+18,"Metallurgy, coating metals",C29,5,Mechanical
+18,"Metallurgy, coating metals",C30,5,Mechanical
+23,"Engine, pump",F01,5,Mechanical
+23,"Engine, pump",F02,5,Mechanical
+23,"Engine, pump",F03,5,Mechanical
+23,"Engine, pump",F04,5,Mechanical
+23,"Engine, pump",F15,5,Mechanical
+24,Engineering elements,F16,5,Mechanical
+24,Engineering elements,F17,5,Mechanical
+1,Agriculture,A01,6,Other
+2,Food Stuffs,A21,6,Other
+2,Food Stuffs,A22,6,Other
+2,Food Stuffs,A23,6,Other
+2,Food Stuffs,A24,6,Other
+3,Personal and domestic articles,A41,6,Other
+3,Personal and domestic articles,A42,6,Other
+3,Personal and domestic articles,A43,6,Other
+3,Personal and domestic articles,A44,6,Other
+3,Personal and domestic articles,A45,6,Other
+3,Personal and domestic articles,A46,6,Other
+3,Personal and domestic articles,A47,6,Other
+9,Printing,B41,6,Other
+9,Printing,B42,6,Other
+9,Printing,B43,6,Other
+9,Printing,B44,6,Other
+19,Textile,D01,6,Other
+19,Textile,D02,6,Other
+19,Textile,D03,6,Other
+19,Textile,D04,6,Other
+19,Textile,D05,6,Other
+19,Textile,D06,6,Other
+19,Textile,D07,6,Other
+20,Paper,D21,6,Other
+20,Paper,B31,6,Other
+21,Construction,E01,6,Other
+21,Construction,E02,6,Other
+21,Construction,E03,6,Other
+21,Construction,E04,6,Other
+21,Construction,E05,6,Other
+21,Construction,E06,6,Other
+22,"Mining, drilling",E21,6,Other
+25,"Lighting, steam generation, heating",F21,6,Other
+25,"Lighting, steam generation, heating",F22,6,Other
+25,"Lighting, steam generation, heating",F23,6,Other
+25,"Lighting, steam generation, heating",F24,6,Other
+25,"Lighting, steam generation, heating",F25,6,Other
+25,"Lighting, steam generation, heating",F26,6,Other
+25,"Lighting, steam generation, heating",F27,6,Other
+25,"Lighting, steam generation, heating",F28,6,Other
+26,"Weapons, blasting",F41,6,Other
+26,"Weapons, blasting",F42,6,Other
+26,"Weapons, blasting",C06,6,Other
+33,Others,B81,6,Other
+33,Others,B82,6,Other
